@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 
-## Importang:
+## Importan:
 
 It is advised to run the Transformers Notebook on a GPU. This can be done on a local machine where pytorch together with Cuda ist installed or with a Google Colab notebook.
 
